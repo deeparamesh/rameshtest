@@ -1,0 +1,17 @@
+public class test{
+
+	private String s="deepa";
+	public char c= 'a';
+	public String getname(){
+		retrun s;
+	}
+}
+
+class child extends test{
+
+	String s2="ramesh";
+	public static void main(Sting[] args){
+	System.out.println("super girl is" + s + "child is" +s2);
+	}
+}
+	
